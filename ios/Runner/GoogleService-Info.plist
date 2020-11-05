@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>467853007128-g7m50curhrgdr0e7235r7ic7d5unr63b.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.467853007128-g7m50curhrgdr0e7235r7ic7d5unr63b</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAjUaBaSNXNlwQqYir4noWxuYwvhWvaILs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>467853007128</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.beatbox.app</string>
+	<key>PROJECT_ID</key>
+	<string>beatbox-767d4</string>
+	<key>STORAGE_BUCKET</key>
+	<string>beatbox-767d4.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:467853007128:ios:5e6d397b2f2d5fb61d666d</string>
+	<key>DATABASE_URL</key>
+	<string>https://beatbox-767d4.firebaseio.com</string>
+</dict>
+</plist>
